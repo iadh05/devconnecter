@@ -1,0 +1,6 @@
+{
+  "MongoURI": "mongodb+srv://iadh:iadh123@cluster0-uspea.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtsecret": "my secret token",
+  "githubcLientId": "f0d1ac73f1db130976d7",
+  "githubclientSecret": "9dc1c9d1263c34e4dc75f21c0b6373fec50eec46"
+}
